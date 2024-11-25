@@ -4,10 +4,10 @@
  Este repositório contém as soluções dos exercícios do Capítulo 3 da disciplina de Programação Orientada a Objetos (POO), desenvolvidas em Java. As questões são baseadas nos capítulos do livro Fundamentos da Programação de Computadores (Algoritmos, Pascal, C/C++ (Padrão 
  ANSI) e Java), escrito por Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
 
-#Objetivos dos Exercícios:
- ##Capítulo 03: Trabalhar com a manipulação de variáveis e operações aritméticas, bem como entender a sequência básica de execução de um programa.
- ##Capítulo 04: Aplicar estruturas condicionais para decidir qual parte do código deve ser executada com base em uma condição.
- ##Capítulo 05: Estudar como criar laços de repetição para executar blocos de código múltiplas vezes, dependendo de uma condição.
+# Objetivos dos Exercícios:
+ ## Capítulo 03: Trabalhar com a manipulação de variáveis e operações aritméticas, bem como entender a sequência básica de execução de um programa.
+ ## Capítulo 04: Aplicar estruturas condicionais para decidir qual parte do código deve ser executada com base em uma condição.
+ ## Capítulo 05: Estudar como criar laços de repetição para executar blocos de código múltiplas vezes, dependendo de uma condição.
 
 
 Estrutura do Repositório
@@ -46,12 +46,12 @@ CAP04/
 └── ...
 Este capítulo aborda como utilizar estruturas condicionais para tomar decisões no código, permitindo que o fluxo de execução varie de acordo com as condições fornecidas.
 
-#Capítulo 05: Estruturas de Repetição
+# Capítulo 05: Estruturas de Repetição
 Tópicos abordados:
 
-##for: Laço de repetição com um número definido de iterações.
-##while: Executa um bloco de código enquanto a condição for verdadeira.
-##do-while: Executa pelo menos uma vez o bloco de código, e continua enquanto a condição for satisfeita.
+## for: Laço de repetição com um número definido de iterações.
+## while: Executa um bloco de código enquanto a condição for verdadeira.
+## do-while: Executa pelo menos uma vez o bloco de código, e continua enquanto a condição for satisfeita.
 
 Estrutura do repositório para este capítulo:
 
