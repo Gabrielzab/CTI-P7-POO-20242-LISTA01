@@ -33,13 +33,13 @@ CAP03/
  └── ...
 Neste capítulo, os exercícios focam no entendimento e na prática de operações e manipulação de variáveis em Java, aplicando conceitos básicos de programação sequencial.
 
-#Capítulo 04: Estrutura Condicional
+# Capítulo 04: Estrutura Condicional
 Tópicos abordados:
 
-##if: Estrutura de decisão simples.
-##else: Executa um bloco de código quando a condição do if não é verdadeira.
-##else if (ou elif em algumas linguagens): Avaliação de condições alternativas.
-##switch-case (quando aplicável): Escolha entre várias alternativas com base no valor de uma variável.
+## if: Estrutura de decisão simples.
+## else: Executa um bloco de código quando a condição do if não é verdadeira.
+## else if (ou elif em algumas linguagens): Avaliação de condições alternativas.
+## switch-case (quando aplicável): Escolha entre várias alternativas com base no valor de uma variável.
 
 Estrutura do repositório para este capítulo:
 
@@ -63,7 +63,7 @@ Tópicos abordados:
 ## while: Executa um bloco de código enquanto a condição for verdadeira.
 ## do-while: Executa pelo menos uma vez o bloco de código, e continua enquanto a condição for satisfeita.
 
-Estrutura do repositório para este capítulo:
+Estrutura do <b>repositório</b> para este capítulo:
 
 
 CAP05/
