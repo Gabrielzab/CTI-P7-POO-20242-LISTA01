@@ -13,7 +13,7 @@
 - Estrutura do Repositório
 O repositório está organizado conforme os capítulos do livro, com subpastas para cada exercício. A estrutura do repositório é a seguinte:
 
-#Capítulo 03: Estrutura Sequencial
+# Capítulo 03: Estrutura Sequencial
 Tópicos abordados:
 
 Estrutura sequencial em Java: Exploração de conceitos básicos de manipulação de variáveis e operações fundamentais.
