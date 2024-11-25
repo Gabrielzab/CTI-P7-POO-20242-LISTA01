@@ -10,7 +10,7 @@
  ## Capítulo 05: Estudar como criar laços de repetição para executar blocos de código múltiplas vezes, dependendo de uma condição.
 
 
-Estrutura do Repositório
+- Estrutura do Repositório
 O repositório está organizado conforme os capítulos do livro, com subpastas para cada exercício. A estrutura do repositório é a seguinte:
 
 #Capítulo 03: Estrutura Sequencial
