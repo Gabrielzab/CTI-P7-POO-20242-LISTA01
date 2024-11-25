@@ -21,10 +21,15 @@ Estrutura sequencial em Java: Exploração de conceitos básicos de manipulaçã
 Estrutura do repositório para este capítulo:
 
 
-CAP03/
+CAP03/ 
+
+
  ├── EXE01/
+ 
  ├── EXE02/
+ 
  ├── EXE03/
+ 
  └── ...
 Neste capítulo, os exercícios focam no entendimento e na prática de operações e manipulação de variáveis em Java, aplicando conceitos básicos de programação sequencial.
 
@@ -40,10 +45,15 @@ Estrutura do repositório para este capítulo:
 
 
 CAP04/
+
 ├── EXE01/
+
 ├── EXE02/
+
 ├── EXE03/
+
 └── ...
+
 Este capítulo aborda como utilizar estruturas condicionais para tomar decisões no código, permitindo que o fluxo de execução varie de acordo com as condições fornecidas.
 
 # Capítulo 05: Estruturas de Repetição
@@ -57,9 +67,15 @@ Estrutura do repositório para este capítulo:
 
 
 CAP05/
+
+
 ├── EXE01/
+
 ├── EXE02/
+
 ├── EXE03/
+
 └── ...
+
 Neste capítulo, os exercícios são voltados para o aprendizado de laços de repetição, permitindo que o código execute determinadas ações várias vezes, de acordo com uma condição.
 
