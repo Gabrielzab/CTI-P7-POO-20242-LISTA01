@@ -72,5 +72,23 @@ CAP05/
 
 └── ...
 
+
+## Como baixar o repositório
+- Abra o terminal e escreva o seguinte comando:
+```
+git clone https://github.com/usuario/nome-do-repositorio.git
+```
+- Substitua ``https://github.com/usuario/nome-do-repositorio.git`` pela URL deste repositório
+## Como executar o conteúdo
+- Compile o código, se necessário, usando o comando:
+```
+javac NomeDoArquivo.java
+```
+- Execute o programa com o comando:
+```
+java NomeDoArquivo
+```
+### Referência
+
 Neste capítulo, os exercícios são voltados para o aprendizado de laços de repetição, permitindo que o código execute determinadas ações várias vezes, de acordo com uma condição.
 
