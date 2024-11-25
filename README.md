@@ -56,7 +56,7 @@ CAP04/
 
 Este capítulo aborda como utilizar estruturas condicionais para tomar decisões no código, permitindo que o fluxo de execução varie de acordo com as condições fornecidas.
 
-# <b>Capítulo 05</b>: Estruturas de Repetição
+ <b>Capítulo 05</b>: Estruturas de Repetição
 Tópicos abordados:
 
 ## for: Laço de repetição com um número definido de iterações.
